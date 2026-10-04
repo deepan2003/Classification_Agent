@@ -1,5 +1,5 @@
 import pandas as pd
-l = pd.read_csv("vireo/out/labelled.csv")
+l = pd.read_csv("vireo/out/labelled_holdout.csv")
 ai = pd.read_csv("vireo/out/tagged.csv")[["ticket_id", "root_cause"]]
 m = l.merge(ai, on="ticket_id")
 print("accuracy:", (m.root_cause == m.true_tag).mean())

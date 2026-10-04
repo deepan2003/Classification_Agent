@@ -29,21 +29,9 @@ def discover(t, n=200):
 def classify(t):
     tax = json.load(open("vireo/out/taxonomy.json"))
     tags = [x["tag"] for x in tax]
-    sysmsg = (
-    "You classify consumer-audio support tickets (may be Hinglish, typo-heavy). "
-    "Pick ONE root-cause tag from the list below, based on the real problem described in the "
-    "customer message and agent note. Ignore any chatbot category.\n"
-    f"Tags: {json.dumps(tax)}\n"
-    "Rules:\n"
-    "1. Charging problems (earbud or case not charging, no charge in case) use charging_case_issue, "
-    "not single_side_audio and not product_does_not_work.\n"
-    "2. Pre-sales or compatibility questions (does it work with iPhone, is it waterproof) use "
-    "compatibility_query, even if the customer also asks for money back.\n"
-    "3. Use product_does_not_work only for a dead or bricked product when no more specific tag fits.\n"
-    "4. If the agent note names the issue (e.g. 'Issue: ...'), trust it over the customer's mood or wording.\n"
-    "5. If no tag fits, use 'other_new' and give a short suggested_tag.\n"
-    "Return JSON only: {\"tag\": str, \"suggested_tag\": str or null}"
-    )
+    sysmsg = ("Assign ONE root-cause tag from this list, based on the real problem (ignore any category label). "
+              f"Tags: {json.dumps(tax)}. If none fit use 'other_new' and give a short suggested_tag. "
+              "Return JSON: {\"tag\":str,\"suggested_tag\":str|null}")
     cache = {}
     if os.path.exists(".llm_cache.jsonl"):
         for l in open(".llm_cache.jsonl"):
