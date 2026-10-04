@@ -1,1 +1,4 @@
 *.env
+/data
+/vireo
+/__pycache__
