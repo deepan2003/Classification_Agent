@@ -1,0 +1,114 @@
+[
+ {
+  "tag": "refund_pending",
+  "definition": "Customer has not received a promised refund, or the refund is delayed."
+ },
+ {
+  "tag": "order_not_delivered",
+  "definition": "Order not received, delayed, marked delivered but not received, or lost in transit."
+ },
+ {
+  "tag": "duplicate_payment_charge",
+  "definition": "Customer has been charged twice for a single order."
+ },
+ {
+  "tag": "pickup_missed",
+  "definition": "Scheduled pickup for return was not completed."
+ },
+ {
+  "tag": "app_crash",
+  "definition": "Customer reports that the app is crashing or not opening."
+ },
+ {
+  "tag": "device_not_discoverable",
+  "definition": "Customer's device cannot be found, paired or connected with a phone or laptop (pairing failure, not in Bluetooth list)."
+ },
+ {
+  "tag": "battery_drain_issue",
+  "definition": "Customer reports rapid battery drain on their device."
+ },
+ {
+  "tag": "wrong_item_received",
+  "definition": "Customer received an incorrect item instead of what was ordered."
+ },
+ {
+  "tag": "transit_damage",
+  "definition": "Product was damaged during shipping or delivery."
+ },
+ {
+  "tag": "invoice_query",
+  "definition": "Customer requests a copy of their invoice or has issues with GST details."
+ },
+ {
+  "tag": "promo_code_invalid",
+  "definition": "Customer's promotional code is not being accepted."
+ },
+ {
+  "tag": "compatibility_query",
+  "definition": "Customer inquires about the compatibility of a product with another device."
+ },
+ {
+  "tag": "firmware_update_stuck",
+  "definition": "Customer's device is stuck during a firmware update."
+ },
+ {
+  "tag": "single_side_audio",
+  "definition": "Customer reports that one side of their audio device is not working."
+ },
+ {
+  "tag": "low_mic_pickup",
+  "definition": "Customer reports that the microphone is not picking up sound properly."
+ },
+ {
+  "tag": "order_status_stuck",
+  "definition": "Customer's order status has not changed and is stuck on a previous status."
+ },
+ {
+  "tag": "account_locked",
+  "definition": "Customer is unable to access their account due to being locked out."
+ },
+ {
+  "tag": "rma_status_query",
+  "definition": "Customer inquires about the status of their warranty or repair claim."
+ },
+ {
+  "tag": "charging_case_issue",
+  "definition": "Customer reports that the charging case is not functioning properly."
+ },
+ {
+  "tag": "wrong_address_update",
+  "definition": "Customer needs to change the delivery address for their order."
+ },
+ {
+  "tag": "order_cancellation_request",
+  "definition": "Customer requests to cancel their order."
+ },
+ {
+  "tag": "otp_not_received",
+  "definition": "Customer is not receiving the OTP needed for login or verification."
+ },
+ {
+  "tag": "wrong_variant_received",
+  "definition": "Customer received a different variant of the product than what was ordered."
+ },
+ {
+  "tag": "strap_damage",
+  "definition": "Customer reports damage to the strap of a wearable device."
+ },
+ {
+  "tag": "app_update_issue",
+  "definition": "Customer experiences issues with the app after an update."
+ },
+ {
+  "tag": "product_does_not_work",
+  "definition": "Product is dead, bricked or will not power on, and no more specific tag fits."
+ },
+ {
+  "tag": "bluetooth_connection_drops",
+  "definition": "Bluetooth connection keeps cutting out or dropping while the device is in use."
+ },
+ {
+  "tag": "payment_failed_no_order",
+  "definition": "Money was debited (UPI/card) but no order was created or no order ID was received."
+ }
+]

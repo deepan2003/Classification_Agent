@@ -1,0 +1,136 @@
+ticket_id,customer_message,agent_notes,true_tag
+TK-254440,bluetooth pairing fails every time.  VR884594. i want a replacement,"cx: unable to pair with phone | checked phone os version -> reest done, paired ok",device_not_discoverable
+TK-254619,"I hear music in one ear only, other is mute",ticket raised for single side audio only. asked cx to check bud in case. transferred to escalations & wty. rplc raised. follow-up not required.,single_side_audio
+TK-254469,payment went through but I got no order id. VR884347. how do i get this fixed?,sorted ~Diya,payment_failed_no_order
+TK-254726,"Hello Vireo, Order VR903836 (my Pulse).  Receiveed dmaaged product. I refused nothing as I didn't notice till later. Please help.","1. Unit received damaged
+2. Checked with crr for damage claim
+3. rfnd initiated",transit_damage
+TK-254675,"Product: replacement case
+Order: VR893053
+Purchased: June 22
+Issue: I was promised a discount on the call, invoice shows none
+Tried: tried in caps
+Expected: resolution","1. Discount not applied
+2. Checked coupon validity
+3. Store credit issued",promo_code_invalid
+TK-254802,"product: the pulse 2 earbuds
+order: vr908217
+purchased: august 08
+issue: since the last update the app just shows a white screen
+tried: cleared cache
+expected: refund","ticket raised for app crash on device page. checked app version. cleared cache, resolved.",app_crash
+TK-254507,"a hiss that wasn't there when I bought it
+VR901810",cx states prior ticket for same issue. cx states audio distortion. Checked FW. Full refund processed (700). Will monitor.,other_new
+TK-254611,Very poor quality.  This is regarding the Pulse 2 earbuds. refund was promised 17 days ago and nothing. I already checked bank. Escalate this to someone senior.,Cx says refund not credited. Checked reverse pickup QC status. Refund of Rs 1662 initiated to source. Closing.,refund_pending
+TK-254522,"charging case dead, tried 3 cables - vr885767 - can someone fix this?",Ticket raised for charging case dead. conf case LED dead. xfer to Escalations & wty. esc to wty. Cx satisfied on chat.,charging_case_issue
+TK-254645,BLUETOOTH KEEPS CUTTING OUT - VR893387,Cx says BT dropouts. adv to test in different location. rfnd of Rs 3499 initiated to source. ~Sukhwinder,bluetooth_connection_drops
+TK-254574,"I am losing patience. Bought Pulse2 around May 13 from Amazon. charging case dead, tried 3 cables. I already tried wireless chargign pad. I want a replacement or refund, nothing else.",cx: charging case dead | asked cx to try different cable + adaptor -> replacement case raised -MI,charging_case_issue
+TK-254766,"hey
+my order has not been delivered yet
+anyone there",Customer states shipment not received. Raised tickt with courier partner. Re-shipped from warehouse.,order_not_delivered
+TK-254655,"Hi Vireo support, I bought Pulse 2 on 20-06-2026. Case wont charge since around Diwali. I tried 3 different cables. Nothing changed. I am losing patience. Kindly look into it. Please revert Dev",esc to wty. issue: case not charging. conf case led dead.,charging_case_issue
+TK-254809,"bhai
+third tme now.
+teh band snapped while i was putting it on this mornng
+please help karo",second contact on same fault. strap pin issue | chk wty eligibility -> advised paid strap purchase (sop 5.4),strap_damage
+TK-254745,"Namaste,
+I bought Pulse 2 on 26 Nov.  Mic not working on calls.
+I tried different apps. Nothing changed.
+Not what I expected from Vireo.
+How do I get this fixed?
+Rgds Deepak",closed [closed],low_mic_pickup
+TK-254829,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of the nexa smartwatch placed on 19-06-2026. Paid via UPI, amount deducted, no order confirmation. I have tried logging out and in. I request you to provide a resolution within 3 working days.
+
+Regards,
+Rauhl Nadiu","refund approved, rs 450, 5-7 working days. issue: payment debited, no ord. checked pg dashboard for txn.",payment_failed_no_order
+TK-254661,"Dear Sir/Madam,
+
+I am writing with reference to my order of orbit mini (VR895964) placed on 13/06. Refund not received yet. I have emailed twice. I request you to kindly arrange a replacement.
+
+Sincerely,
+Deepak Gaikwad
+Indore","1. Refund pending
+2. Checked refund status on PG
+3. Refund conf credited",refund_pending
+TK-254565,"Product: Pulse earbuds
+Order: VR891878
+Purchased: 26-06-2025
+Issue: the Vireo app keeps crashing
+Tried: cleared cache
+Expected: replacement","adv beta build, resolved ~Kabir",app_crash
+TK-254700,"Dear Sir/Madam,
+
+I am writing with reference to my order of the strata 3 (VR893261) placed on 22 Nov.  I snet the unit in 7 days ago and have heard nothing. I have called service centre. I request you to process a refund to my original payment method.
+
+Regards,
+Harpreet Jadhav",closed,rma_status_query
+TK-254542,"got my nexa fit band from vireo.in 3 weeks back. order not delivered, tracking not updating.
+please resolve asap.
+thank you, bhavna reddy","1. shipment not received
+2. checked awb with courier
+3. re-shipped from warehouse",order_not_delivered
+TK-254698,"helo
+it connects for a second and then vanishes from the device list
+pls reply","cust contacted re pairing failure. asked cx to reset the device. reset done, paired ok.",device_not_discoverable
+TK-254743,"my pulse purchased around diwali, order vr894515. pickup scheduled but no one showed up.
+please call me on my registered number.
+please revert",cx: pickup missed | re-raised pickup with courier -> pickup rescheduled for 27 jun,pickup_missed
+TK-254466,the box says Nexa 2 but what's inside is not what I paid for. VR902679,"1. Incorrect product shipped
+2. Raised w/ warehouse
+3. New uint shipped under DOA",wrong_item_received
+TK-254819,"Hello, Got the Pulse 2 earbuds frm vireo.in 3 weeks back. The promised 30 hours is nowhere close, I get maybe 2. Neeed this sorted this week. Thanks in advance, Sukhwinder Rao","issue: battery draining fast | checked fw 1.6.7 -> fw update pushed, advised to monitor (sop 4.2) ~Kavya",battery_drain_issue
+TK-254417,"hey,
+this is regarding the cable.  the courier marked it delivered but nobody in my house got anything.
+i called the courier.
+what do i do now?
+please revert megha",Cust contacted re ord not delivered. chk AWB w/ crr. rfnd initiated as lost in transit.,order_not_delivered
+TK-254509,"Hi there, Bought Strata 3 around 08-06-2026 from Amazon.  Received damaged product. I refused nothing as I didn't notice till later. Honestly regretting this purchase. Can someone fix this?","re: damaged in transit | chk with courier for damage claim -> rplc approved, reverse pickup arranged",transit_damage
+TK-254660,"product: my pulse
+order: vr886973
+purchased: 18 oct
+issue: case wont charge since in october
+tried: charged for 6 houurs nothing
+expected: fix","ticket raised for case no led / no charge. asked cx to try different cable + adaptor. advised port cleaning, resolved. cx satisfied on chat. -YM",charging_case_issue
+TK-254684,[IVR transcript] order status stuck on shipped since 30 oct,"1. Shipment not rcvd
+2. chk AWB w/ crr
+3. rfnd initiated as lost in transit",order_not_delivered
+TK-254823,Honestly regretting this purchase. I bought AirLite on 17 Apr. connection drops constantly. I already turned off wifi. This is the last time I buy from you.,Replacement raised. Issue: connection dropping. Advised to tesst in different location.,bluetooth_connection_drops
+TK-254591,"to the vireo customer care team,
+
+i am writing w/ reference to my order of pulse2 (vr894137) placed on 19/06. the parcel looked like it was kicked here frrom the warehouse, & the unit has a crack. i have took photos. i request you to kindly arrange a replacement.
+
+sincerely,
+tanvi agarwal
+nashik",Cx reported unit rcvd damaged. chk w/ courier for damage claim. rfnd initiated.,transit_damage
+TK-254690,"hello vireo,
+the mini speker purchased 10 days ago, order vr903144.  want to cancel my order.
+i tried cancel button, greyed out. nothing changed.
+honestly regretting this purchase.
+how do i get this fixed?
+thanks in advance, divya chopra","cancelled, rfnd initiated. issue: cancellation request. chk shipment status.",order_cancellation_request
+TK-254374,I have been a loyal customer & this is how you treat me.  Got airlite earbuds from Amazon in January. bluetooth keeps cutting out. I already kept phone in hand. Fix this or I am posting on twitter.,issue: bt dropouts | chk fw 1.5.10 -> fw update rslvd (SOP 2.7),bluetooth_connection_drops
+TK-254759,my company accounts team is asking for teh tax bill,closed -MM,invoice_query
+TK-254778,"paid via UPI, amount deducted, no order confirmation. how do i get this fixed?","1. Failed order after payment
+2. Confirmed with payment gateway
+3. Refund of Rs 5524 initiated to source (SOP 2.7) -MM",payment_failed_no_order
+TK-254644,"i am losing patience. this is regarding nexa 2. cancel order. i already tried cancel button, greyed out. this is the last time i buy from u.",Cx reported order cancellation. Cancelled before dispatch. Refunded Rs 6499.,order_cancellation_request
+TK-254746,"third time now.
+product: pulse earbuds
+order: vr881908
+purchased: 04-03-2026
+issue: one of them is just decoration at this point
+tried: tried different phone
+expected: replacement",reset rslvd ~Kabir,single_side_audio
+TK-254718,"battery drains v fast, barely lasts 2 hours - can someoen fix this?",re: rapid battery drain | checked usage pattern with cx -> replacement raised after test (sop 2.7) ~Kavya,battery_drain_issue
+TK-254720,"I have been a loyal customer & this is how you treat me.  Ordered my Pulse a month ago. LEFT EARBUD NOT CHARGING, RIGHT ONE IS FINE. I already removed & reinserted it 10 times. Escalate this to someone senior.",-,charging_case_issue
+TK-254654,"Hi there,
+Got pulse 2 buds from vireo.in around Diwali. Refund not received yet.
+Please resolve asap.
+Regards",Reported: refund not credited. Checked refund status on PG. Refund reprocessed.,refund_pending
+TK-254728,"PRODUCT: MY ORBIT
+PURCHASED: 18-02-2026
+ISSUE: AUDIO KEEPS DISCONNECTING EVERY FEW MINUTES
+TRIED: TURNED OFF WIFI
+EXPECTED: CALLBACK","issue: intermittent disconnects | advised to test in different location -> advised, cx will monitor | xfer email frontline (sop 5.4) ~Kavya",bluetooth_connection_drops

@@ -1,0 +1,169 @@
+ticket_id,customer_message,agent_notes,true_tag
+TK-254541,"This is regarding Orbit Mini. Your ad said 20% off and the cart says full price.
+Pleaase call me on my registered number.
+Thaank you, Vikram Srivastava",Refunded Rs 1999. Issue: discount not applied. Checked cart eligibility.,promo_code_invalid
+TK-254714,"Not what I expected from Vireo.  Third time now. I bought the fit band on 06/05. service centre took it, now silence. I already emailed twice. Fix this or I am posting on twitter.","Replacement raised, RMA shared with cx. Issue: repair status follow-up. Checked RMA status.",rma_status_query
+TK-254550,"Namaste, Ordered the AirLite buds in June.  Bluetooth pairing fails every time. Waiting for your reply. Awaiting response Sneha Das","Cust contacted re unable to pair with phone. Checked phone OS version. Advised FW update via app, resolved. Case closed with cx consent. -TS",device_not_discoverable
+TK-254512,"the L bud is basically a paperweight now, R is fine, VR889934",Cx reported left earbud not taking charge. chk case LED behaviour w/ cx. rplc raised for full set.,charging_case_issue
+TK-254385,"Product: AirLite
+Order: VR882230
+Purchased: 08-06-2026
+Issue: I was charged twice for one order
+Tried: waited a wek
+Expected: refund","1. Charged twice
+2. Checked PG for duplicate txn
+3. Refunded Rs 1619 (SOP 3.1)",duplicate_payment_charge
+TK-254649,"Product: the Pulse 2 earbuds
+Order: VR898768
+Purchased: 16 May
+Issue: UPI shows success, your app shows nothing
+Tried: checked bank statement
+Expected: resolution","payment debited, no ord | asked for utr -> auto-rfnd confirmed within 5-7 days",payment_failed_no_order
+TK-254652,"Hey,
+Ths is regarding Pulse 2. It's showing a spinning circle for hours.
+Waiting for your reply.
+Awaiting response Thomas",replacement raised (bricked),product_does_not_work
+TK-254516,"battery drains very fast, barely lasts 2 hours, how do i get this fixed?","contact re poor battery backup. chk fw 1.0.1. fw update pushed, advised to monitor. [closed]",battery_drain_issue
+TK-254371,"Dear Sir/Madam,
+
+I am writing wiith reference to my order of pules 2 buds (VR904948) placed on 06-06-2026. Connection drops constantly. I have turned off wifi. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Neha Singh",FW update resolved,bluetooth_connection_drops
+TK-254621,"dear sir/madam,
+
+i am wirting with refeence to my order of my nexa 2 watch placed on 12/04. wacth srtap broke within a month. i have tried to fix pin. i request you to look into this matter at teh earliest.
+
+yours faithfully,
+amiit dhillon
+vadodara",escalated to warranty. issue: strap broken. checked warranty eligibility.,strap_damage
+TK-254806,"hi
+same issue as before, it came back after 2 weeks.
+cannot pair pulse 2 buds with my laptop","cx states prrior ticket for same issue. Re-pair successful, resolved on chat. Issue: device not discoverable. Checked phone OS version. ~Farah",device_not_discoverable
+TK-254367,This was supposedly sorted by ur team last time. - I ordered Pulse 2 & got something else,sorted,wrong_item_received
+TK-254692,"hii
+can't get past the loading screen in the app
+urgent","1. App crash on device page
+2. Asked for phone model + OS
+3. Transferred to Returns Desk
+4. adv beta build, resolved",app_crash
+TK-254380,"hey, order vr906836 (the cable).  payment went through but i got no order id. i waited 24 hours. nothing changed. please advise. please revert, megha",Ticket raised for failed ordeer after payment. Asked for UTR. Refund processed to source. Will monitor. -TS,payment_failed_no_order
+TK-254381,"Dear team,
+Got Pulse2 from Amazon recently.  Double payment deducted.
+I waited a week. Nothing changed.
+Not what I expected from Vireo.
+Please resolve asap.
+Awaiting response,",full refund processed (892),duplicate_payment_charge
+TK-254413,no sound from the right earbud. VR880030,cx: no audio one siide | wlked through reset -> escalated to warranty -SK,single_side_audio
+TK-254716,"namaste,
+got airlite from amazon last week. cannot login to my account.
+i tried 5 times.
+how do i get this fixed?","customer states unable to log in. checked number on account. otp resent, cx logged in. cx informed.",otp_not_received
+TK-254792,"HELO
+THIRD TMIE NOW.
+DIES BY LUNCHTIME WITH LIGHT USE
+MY NEXA 2 WTACH VR902555
+KNIDLY DO THE NEEDFUL","FW update pushed, adv to monitor. Issue: battery draining fast. adv disabling ANC/AOD to test. Via Chat Frontline.",battery_drain_issue
+TK-254679,"Product: the Nexa 2
+Order: VR885280
+Purchased: 23 Jun
+Issue: paid on 23 Jun, still waiting for something to show up
+Tried: checked with neighbours
+Expected: fix","1. dlvry delayed
+2. Raised ticket w/ crr partner
+3. RTO conf, reshipped",order_not_delivered
+TK-254406,"[IVR transcript] Hello Vireo, I bought pulse 1 on June 13.  Card charged two times. I checked with bank. Nothing changed. Waiting for yoour reply. Thank you, Manish",refunded Rs 2499 ~Diya,duplicate_payment_charge
+TK-254585,"hii
+right side works perfectly, left one just does not wake up
+pulse 1 VR901704
+hello??","reported: l bud no charge in case. tested w/ cx on call. adv pin cleaning, cx conf ok. ~Ayaan",charging_case_issue
+TK-254590,Not acceptable at this price.  Ordered Pulse 2 in June. the courier marked it delivered but nobody in my house got anything. I already called the courier. Fix this or I am posting on twitter.,"contact re ord not delivered. conf address w/ cx. rto conf, reshipped. cx satisfied on chat. [closed]",order_not_delivered
+TK-254704,"hi
+cannot pair the nexa 2 with my laptop",ticket raised for pairing failure. checked phone os version. replacement unit dispatched.,device_not_discoverable
+TK-254593,"namaste, bought 65w charger around june 13 from flipkart. i haven't received my order. waiting for your reply. rgds, pranav","cust contacted re dlvry delayed. conf address with cx. crr conf dlvry for 23 jun, cx informed. will monitor.",order_not_delivered
+TK-254468,"i am losing patience.  i bought the pulse buds on 06/06. received damaged product. i already refused nothing as i didn't notice till later. i want a replacement or refund, nothing else.","contact re damaged in transit. photos rcvd, damage conf. rplc raised, rma shared w/ cx. follow-up not required. [closed]",transit_damage
+TK-254521,"product: pulse 2 buds
+purchased: 27 feb
+issue: left side has no audio at all
+tried: checked balance settings
+expected: resolution","1. Left side silent
+2. Walked through reset
+3. rplc raised (SOP 5.4)",single_side_audio
+TK-254703,"Dear team,
+Ordered Nexa watch in May.  Where is the money for the return.
+Kindly look into it.
+Thank you,",Cx reported refund pending. Checked reverse pickup QC status. ARN shared with cx.,refund_pending
+TK-254648,Honestly regretting this purchase. This is regarding Arc neckband. DOES ARC NECKBAND WORK W/ IPHONE. This is the last time I buy from you.,re: product enquiry | shared spec sheet -> query answered,compatibility_query
+TK-254789,"dear sir/madam, i bought pulse 2 on june 19. i haven't reeived my order. please call me on my registerred number. reagrds aaadhya",contact re ord not delivered. raised ticket w/ crr partner. re-shipped from warehouse. follow-up not required.,order_not_delivered
+TK-254821,"Product: Nexa watch
+Order: VR896298
+Purchased: 24-06-2026
+Issue: order not delivered, tracking not updating
+Tried: called the courier
+Expected: replacement",Contact re shipment not rcvd. chk AWB with crr. Re-shipped from warehouse.,order_not_delivered
+TK-254404,"namaste, got my pulse 2 from flipkart 3 weeks back.  my dad has an old nokia, will the watch app run. i want my money back.",query answered. issue: pre-sales query. shared spec sheet.,compatibility_query
+TK-254418,"Got my Nexa 2 watch from Amazon 10 dasy ago. UPI shows success, your app shows nothing. I tied logging out and in. I want a replacement. Thanks in advance,","Refund approved, Rs 6174, 5-7 working days. Issue: failed order after payment. Confirmed with payment gateway. (SOP 2.7) -MM",payment_failed_no_order
+TK-254389,"case wont charge since last month, VR905971",rplc case raised,charging_case_issue
+TK-254641,"product: nexa 2
+order: vr886899
+purchased: 11/05
+issue: firmware update stuck for 2 hours
+tried: kept it in teh case
+expected: replacement",re: firmware update failed | checked fw 1.2.4 rollout -> recovery successful -SK,firmware_update_stuck
+TK-254481,This is v disappointing. Got the Nexa 2 from vireo.in 10 days ago. ur ad said 20% off and the cart says full price. I already tried on app and website. Fix this or I am posting on twitter.,customer reached out - promo code invalid. checked coupon validity. store credit issued.,promo_code_invalid
+TK-254662,Really frustrating. Bought Pulse 2 aroudn 09/01 from vireo.in. I haven't received my order. I already checked with neighbours. This is the last time I buy from you.,"reported: shipment not rcvd. checked awb w/ courier. replacement approved, reverse pkp arranged. will monitor. [closed]",order_not_delivered
+TK-254723,"product: pulse2
+purchased: 28/04
+issue: bluetooth keeps cutting out
+tried: turned off wifi
+expected: replacement",done,bluetooth_connection_drops
+TK-254422,"raised this in june and was tld it was resolved.
+product: my pulse 2
+order: vr885037
+purchased: 28-05-2026
+issue: my oder has not been delivered yet
+tried: called the courier
+expected: calback",Ticket raised for order not delivered. Rasied ticket w/ crr partner. Re-shipped from warehouse. ~Farah,order_not_delivered
+TK-254752,"Product: the Pulse 2 earbuds
+Order: VR908393
+Purchased: 23/11
+Issue: connection drops constantly
+Tried: kept phone in hand
+Expected: fix",cstomer reached out - connetcion dropping. checked interference sources. fw udpate resolved. [closed],bluetooth_connection_drops
+TK-254612,"I have been a loyal customer & this is how you treat me. Raised this 2 weeks ago & was told it was resolved. I bought Pulse 2 on 20 May. paid on 20 May, still waiting for something to show up. I already checked the tracking page daily. Escalate this to someone senior.","1. shipment not rcvd
+2. conf address w/ cx
+3. rfnd initiated as lost in transit",order_not_delivered
+TK-254681,i haven't received my order,"1. dlvry delayed
+2. Checked AWB w/ courier
+3. Re-shipped from warehuse",order_not_delivered
+TK-254582,"Product: Orbit speaker
+Order: VR883555
+Purchased: 12 Dec
+Issue: no power on the Orbit speaker
+Tried: held power button 30 sec
+Expected: resolution",cust contacted re speaker not powering on. walked through hard reset. transferred to chat frontline. replacement raised. [closed],product_does_not_work
+TK-254479,"DEAR TEAM, GOT PULSE 2 BUDS FROM VIREO.IN 10 DAYS AGO. Paid on June 17, still waiting for something to show up. I checked the tracking page daily. Nothing changed. Please resolve asap. Thanks in advance,",Refund of Rs 700 initiated to source. Issue: shipment not received. Confirmed address with cx. -TS,order_not_delivered
+TK-254748,"Dear Sir/Madam, This is regarding Pule 2. Battery drains veery fast, barely lass 2 hours. I updated teh app. Nothing changed. Not acceptable at this price. Can someone fix this?",cx reported rapid battery drain. checked fw 1.8.8. escalated to warranty.,battery_drain_issue
+TK-254485,"Hi,
+Bought Pulse 2 around 25-03-2026 from vireo.in. Not receiving OTP to login.
+I want a replacement.
+Please revert, Tarun","OTP resent, cx logged in. Issue: unable to log in. Checked number on account. -TS",otp_not_received
+TK-254412,"Namaste,
+Order VR894612 (my Nexa). My phone just doesn't see it in the list anymore.
+Kidnly look into it.
+Thanks Tarun Gupta","reported: pairing failure. asked cx to reset the device. adv fw update via app, resolved.",device_not_discoverable
+TK-254626,Pathetic experience honestly. This is regarding Nexa 2. return pickup has not happened. I already called courier. Escalate this to someone senior.,"1. Pickup missed
+2. Checked pickup AWB
+3. Refund of Rs 11698 initiated to source",pickup_missed
+TK-254695,"product: replacement case
+purchased: june 21
+issue: will this survive a shower
+expected: replacement","1. compatibility query
+2. shared compatibility info
+3. query answered (sop 2.7) ~Kavya",compatibility_query
+TK-254691,I am losing patience. I buoght my Strata 3 headphones on 23/06. got a different colour than ordered. I already rechecked my order. Escalate this to someone senior.,replacement unit dispatched. issue: wrong variant rcvd. verified order vs delivered item photos. via billing.,wrong_variant_received
+TK-254524,"hii
+paid on 14-06-2026, still waiting for something to show up
+help","1. ord not delivered
+2. conf adress w/ cx
+3. Re-shipped from warehouse",order_not_delivered

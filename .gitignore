@@ -1,5 +1,4 @@
 *.env
 /data
-/vireo
 /__pycache__
 *.jsonl
