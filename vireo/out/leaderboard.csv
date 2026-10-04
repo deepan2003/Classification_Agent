@@ -1,32 +1,4 @@
 week,agent_id,name,team,closed,rank
-2026-07-06,A3005,Sameer Menon,Chat Frontline,1,1
-2026-07-06,A3020,Ankit Ansari,Email Frontline,1,1
-2026-06-29,A3037,Vivaan Sethi,Returns Desk,5,1
-2026-06-29,A3029,Geeta Rathore,Logistics,4,2
-2026-06-29,A3031,Aishwarya Agarwal,Logistics,4,2
-2026-06-29,A3011,Kavya Goyal,Chat Frontline,3,4
-2026-06-29,A3016,Ayaan Pawar,Email Frontline,3,4
-2026-06-29,A3027,Rajat Saxena,Logistics,3,4
-2026-06-29,A3032,Diya Malhotra,Billing,3,4
-2026-06-29,A3033,Diya Singh,Billing,3,4
-2026-06-29,A3006,Tenzin Saxena,Chat Frontline,2,9
-2026-06-29,A3010,Om Varghese,Chat Frontline,2,9
-2026-06-29,A3017,Kabir Mathew,Email Frontline,2,9
-2026-06-29,A3018,Sukhwinder Bose,Email Frontline,2,9
-2026-06-29,A3020,Ankit Ansari,Email Frontline,2,9
-2026-06-29,A3022,Yash Mittal,Email Frontline,2,9
-2026-06-29,A3036,Saanvi Saxena,Returns Desk,2,9
-2026-06-29,A3038,Pooja Patil,Returns Desk,2,9
-2026-06-29,A3001,Shreya Kumar,Chat Frontline,1,17
-2026-06-29,A3008,Manish Jain,Chat Frontline,1,17
-2026-06-29,A3013,Ayaan Dutta,Chat Frontline,1,17
-2026-06-29,A3014,Manpreet Iyer,Chat Frontline,1,17
-2026-06-29,A3019,Kavya D'Souza,Email Frontline,1,17
-2026-06-29,A3021,Pooja Dhillon,Email Frontline,1,17
-2026-06-29,A3026,Vihaan Dutta,Voice Frontline,1,17
-2026-06-29,A3028,Tarun Pereira,Logistics,1,17
-2026-06-29,A3030,Gurpreet Kulkarni,Logistics,1,17
-2026-06-29,A3035,Mohammed Jadhav,Billing,1,17
 2026-06-22,A3021,Pooja Dhillon,Email Frontline,11,1
 2026-06-22,A3037,Vivaan Sethi,Returns Desk,11,1
 2026-06-22,A3031,Aishwarya Agarwal,Logistics,10,3
