@@ -122,7 +122,7 @@ Other costs found by `savings.py` (Jan 2025 to Jun 2026):
 - Better tagging could cut only a small part of the transfers (about Rs 6,000 a quarter).
 - Late-reply credits are paid whatever the cause, so this tool does not reduce them. They are the biggest cost and the best next thing to study.
 
-**Running cost:** [fill in from OpenRouter dashboard: cost for 366 tickets, and per 1,000 tickets].
+**Running cost:** about Rs 5 for 366 tickets, or about Rs 13 per 1,000 tickets (total project spend was $0.16, about Rs 14, including testing; per-ticket figures are estimated from that total). At Vireo's volume (about 650 tickets a week, roughly 2,800 a month) that is about Rs 35 a month, using `openai/gpt-4o-mini`.
 
 ---
 
