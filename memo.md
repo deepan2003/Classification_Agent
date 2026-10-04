@@ -56,7 +56,4 @@ I tested the tool on 40 tickets it had never seen. It gave the same tag as my re
 
 The Rs 22,000 is an estimate. It uses only two weeks of tagged tickets, and the 30% is my assumption. I tagged only the two latest weeks to keep testing quick. Running cost is small: about Rs 5 for 366 tickets, or about Rs 13 per 1,000 tickets. At your volume (about 2,800 tickets a month) that is roughly Rs 35 a month, so there is no surprise bill.
 
-## What I need from you
 
-1. A yes or no on adding answers to product pages and order emails for compatibility and invoice questions.
-2. Should I tag the full history and add repeat-contact checking ("I already told your colleague")? I didn't get to that.
