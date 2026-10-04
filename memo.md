@@ -55,8 +55,3 @@ Over the last 18 months, using the costs in the support policy:
 I tested the tool on 40 tickets it had never seen. It gave the same tag as my review in **38 of 40 (95%)**. The review labels were first drafted with an AI assistant, then checked by me. So this is a good sign, not a formal audit.
 
 The Rs 22,000 is an estimate. It uses only two weeks of tagged tickets, and the 30% is my assumption. I tagged only the two latest weeks to keep the running cost small: [Rs X for 366 tickets, Rs Y per 1,000 tickets].
-
-## What I need from you
-
-1. A yes or no on adding answers to product pages and order emails for compatibility and invoice questions.
-2. Should I tag the full history and add repeat-contact checking ("I already told your colleague")? I didn't get to that.
